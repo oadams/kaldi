@@ -10,3 +10,5 @@ export PATH=$PWD/utils/:$KALDI_ROOT/tools/openfst/bin:$KALDI_ROOT/tools/sph2pipe
 . $KALDI_ROOT/tools/config/common_path.sh
 
 export LC_ALL=C
+
+source ../../../tools/env.sh
